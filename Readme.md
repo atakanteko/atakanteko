@@ -1,3 +1,4 @@
+[![Header](https://github.com/atakanteko/atakanteko/blob/main/gitHeader.png  "Header")](https://atakanteko.github.io/)
 
 ## 👋 Hello, folks!
 My name is Atakan, I'm a computer engineering student at Yıldız Technical University. I'm from Turkey and living in Istanbul.
