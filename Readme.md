@@ -18,3 +18,5 @@ I am Atakan, a junior software developer based in Istanbul, Turkey.
 
 
 ![ThanksYou](https://img.shields.io/badge/🙏Thank_You_For_Spending_a_Moment_On_My_Profile,_Happy_Coding,_All_The_Very_Best-dodgerred.svg?style=for-the-badge)
+
+![snake gif](https://github.com/atakanteko/atakanteko/blob/output/github-contribution-grid-snake.gif)
