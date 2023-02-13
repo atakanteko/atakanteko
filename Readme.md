@@ -3,7 +3,7 @@
 
 
 
-I am Atakan, a junior software developer based in Istanbul, Turkey.
+I am Atakan, a junior software developer based in Istanbul, Türkiye.
 - 🔭 **I'm currently working mostly on client-side technologies.**
 - 🌱 **I am currently learning things about React.js, Next.js, Vue.js, Nuxt.js as much as possible.**
 - 🧪 **I like to write code with the logic of Test Driven Development and Behavior Driven Development.**
